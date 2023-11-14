@@ -15,7 +15,7 @@ body{
   background-position: 0;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: shine 5s infinite linear;
+  animation: shine 4s infinite linear;
   animation-fill-mode: forwards;
   -webkit-text-size-adjust: none;
   font-size: 85px;
